@@ -2,7 +2,7 @@
 First of all,Thank CTW for giving me the opportunity to try to make an API.
 It was challenging and fun.
 I already do my best.
-           Tinny
+           write by Tinny
 
 Project Description
 
