@@ -1,5 +1,9 @@
 # asignment
- 
+First of all,Thank CTW for giving me the opportunity to try to make an API.
+It was challenging and fun.
+I already do my best.
+           Tinny
+
 Project Description
 
 This project is a Financial API service that retrieves financial data for IBM and Apple Inc using the AlphaVantage API and stores it in a SQLite database. It also provides endpoints to retrieve and analyze the stored data.
