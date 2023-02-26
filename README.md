@@ -1,6 +1,6 @@
 # assignment
-First of all,Thank CTW for giving me the opportunity to try to make an API.
-It is my first time using Docker ,and I don't it is currect or not.
+First of all,Thank CTW for giving me the opportunity to take a challenge.
+It is my first time to build a API and build Dockerfile and Docker compose ,and I don't know it is currect or not.
 It was challenging and fun.
 I already do my best.
            write by Tinny
@@ -13,7 +13,7 @@ Tech Stack
 
 This API service is built using the following technologies:
 
-Python 3.10.9/
+Python 3.10.9/Visual Studio code/Miniconda virtual environment
 Flask/
 SQLite/
 Docker/
