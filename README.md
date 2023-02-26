@@ -20,11 +20,11 @@ Running the Code Locally
 
 To run the code locally, follow these steps:
 
-Clone the repository to your local machine.
-Create a virtual environment using Python 3.10.9
-Install the dependencies listed in requirements.txt using pip.
-Export your AlphaVantage API key as an environment variable: export ALPHAVANTAGE_API_KEY=<your_api_key>
-Run the Flask server: flask run.
+Clone the repository to your local machine./n
+Create a virtual environment using Python 3.10.9/n
+Install the dependencies listed in requirements.txt using pip./n
+Export your AlphaVantage API key as an environment variable: export ALPHAVANTAGE_API_KEY=<your_api_key>/n
+Run the Flask server: flask run./n
 The API service will now be available at http://localhost:5000.
 
 Maintaining the AlphaVantage API Key
