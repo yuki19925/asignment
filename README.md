@@ -12,10 +12,10 @@ Tech Stack
 
 This API service is built using the following technologies:
 
-Python 3.10.9
-Flask
-SQLite
-Docker
+Python 3.10.9/
+Flask/
+SQLite/
+Docker/
 Running the Code Locally
 
 To run the code locally, follow these steps:
