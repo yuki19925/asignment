@@ -1,4 +1,4 @@
-# asignment
+# assignment
 First of all,Thank CTW for giving me the opportunity to try to make an API.
 It is my first time using Docker ,and I don't it is currect or not.
 It was challenging and fun.
